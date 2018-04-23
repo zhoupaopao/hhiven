@@ -174,7 +174,6 @@ public class WirelessActivity extends Activity implements HttpCycleContext {
         final Calendar ca = Calendar.getInstance();
         mHour = ca.get(Calendar.HOUR_OF_DAY);
         mMinutes=ca.get(Calendar.MINUTE);
-        Log.i("test git1", "测试git版本控制用");
         Log.i("test git3", "测试git版本控制用");
     }
     @Override
